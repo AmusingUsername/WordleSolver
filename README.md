@@ -16,7 +16,7 @@ A Wordle solver app, for kicks and giggles
 - suggestions for which potential solutions/guesses that would minimize steps to solution
 - Make use of the potential guesses to offer guesses that may not be solutions and for where the analyzed puzzle's solution is not in the known solution list.
 - option to omit previous solutions from solutions (default off?)
-- different interface (Chrome extension?) or ability to paste in copied page from NYT which would recognize the prevoius guesses
+- different interface (Chrome extension?) or ability to paste in copied page from NYT which would recognize the previous guesses
 
 ### Resources for future use: ###
 - PossibleGuesses.txt in project, from the source
