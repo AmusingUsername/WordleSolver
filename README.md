@@ -8,7 +8,7 @@ A Wordle solver app, for kicks and giggles
 ## Notes for self: ##
 
 ### Issues to be created/solved: ###
--The olution list is out of date, as some recent solutions weren't in the original solution list.
+-The solution list is out of date, as some recent solutions weren't in the original solution list.
 
 ### Possible future improvements: ###
 - frequency count of words in remaining potential solutions
